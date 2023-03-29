@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>album</title>
+   	<link>..</link>
+        <generator>jAlbum 30.1</generator>
+   		<description></description>
+        <jalbum:absolutePath></jalbum:absolutePath>
+        <item>
+            <title>folderimg</title>
+            <link>slides/folderimg.jpg</link>
+            <pubDate>Wed, 29 Mar 2023 14:00:24 +0800</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/folderimg.jpg" width="256" height="256"/>
+            <media:content type="image/jpeg" url="slides/folderimg.jpg" width="768" height="768"/>
+            <guid isPermaLink="false">slides/folderimg.jpg</guid>
+        </item>
+        <item>
+            <title>folderimage</title>
+            <link>slides/folderimage.jpg</link>
+            <pubDate>Wed, 29 Mar 2023 14:00:24 +0800</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/folderimage.jpg" width="256" height="114"/>
+            <media:content type="image/jpeg" url="slides/folderimage.jpg" width="1024" height="455"/>
+            <guid isPermaLink="false">slides/folderimage.jpg</guid>
+        </item>
+        <item>
+            <title>folderthumb</title>
+            <link>slides/folderthumb.jpg</link>
+            <pubDate>Wed, 29 Mar 2023 14:00:24 +0800</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/folderthumb.jpg" width="256" height="179"/>
+            <media:content type="image/jpeg" url="slides/folderthumb.jpg" width="600" height="420"/>
+            <guid isPermaLink="false">slides/folderthumb.jpg</guid>
+        </item>
+        <item>
+            <title>shareimage</title>
+            <link>slides/shareimage.jpg</link>
+            <pubDate>Wed, 29 Mar 2023 14:00:24 +0800</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/shareimage.jpg" width="256" height="192"/>
+            <media:content type="image/jpeg" url="slides/shareimage.jpg" width="640" height="480"/>
+            <guid isPermaLink="false">slides/shareimage.jpg</guid>
+        </item>
+    </channel>
+</rss>
